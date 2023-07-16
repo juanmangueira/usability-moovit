@@ -24,3 +24,17 @@ A Correlação de Person descreve o quanto duas variáveis estão correlacionada
 
 
 É possivel observar que uma correlação entre nielsen_7_eficiencia_flexibilidade.3 e nielsen_10_
+
+
+## Estatisticas de dados numéricos
+
+|index|habilidade\_tecnologia|encontrar\_rotas\_frequentes\_facilidade|nielsen\_8\_estetica\_minimalista|nielsen\_7\_eficiencia\_flexibilidade\.3|nielsen\_10\_|
+|---|---|---|---|---|---|
+|count|131\.0|131\.0|131\.0|131\.0|131\.0|
+|mean|3\.969465648854962|4\.083969465648855|3\.5877862595419847|3\.618320610687023|2\.885496183206107|
+|std|1\.413881353403895|0\.9925737169983225|0\.9756278373644927|1\.0337237785135058|1\.0350861827667062|
+|min|1\.0|1\.0|1\.0|1\.0|1\.0|
+|25%|4\.0|3\.0|3\.0|3\.0|2\.0|
+|50%|5\.0|4\.0|4\.0|4\.0|3\.0|
+|75%|5\.0|5\.0|4\.0|4\.0|3\.5|
+|max|5\.0|5\.0|5\.0|5\.0|5\.0|

@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib as plot
 
 
-data = pd.read_csv('usability-moovit/pesquisa_moovit_interacao.csv')
+data = pd.read_csv('pesquisa_moovit_interacao.csv')
 
 
 def cronbach_alpha(data):
@@ -33,3 +33,7 @@ x = cronbach_alpha(data)
 print(x)
 
 print(data.corr(method='pearson'))
+
+print("---------------------")
+
+print(data.describe())
