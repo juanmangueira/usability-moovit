@@ -1,6 +1,12 @@
 # usability-moovit
 Análise de usabilidade, com dados, do aplicativo de transporte Moovit
 
+## Sujestões e Comentários dos usuários
+
+Existem muitas sugestões que auxiliaram o desenvolvimento do protótipo.
+
+[Sugestões e Comentários](./sugestoes.md)
+
 
 ## Confiabilidade: Alpha de Cronbach
 
