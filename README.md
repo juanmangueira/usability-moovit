@@ -28,6 +28,8 @@ A Correlação de Person descreve o quanto duas variáveis estão correlacionada
 
 ## Estatisticas de dados numéricos
 
+A tabela abaixo exibe e resume dados numéricos do questionário
+
 |index|habilidade\_tecnologia|encontrar\_rotas\_frequentes\_facilidade|nielsen\_8\_estetica\_minimalista|nielsen\_7\_eficiencia\_flexibilidade\.3|nielsen\_10\_|
 |---|---|---|---|---|---|
 |count|131\.0|131\.0|131\.0|131\.0|131\.0|
@@ -38,3 +40,121 @@ A Correlação de Person descreve o quanto duas variáveis estão correlacionada
 |50%|5\.0|4\.0|4\.0|4\.0|3\.0|
 |75%|5\.0|5\.0|4\.0|4\.0|3\.5|
 |max|5\.0|5\.0|5\.0|5\.0|5\.0|
+
+
+## Respostas
+
+### Faixa Etária
+
+![img](./images/faixaEtaria.png)
+
+### Escolaridade
+
+![img](./images/escolaridade.png)
+
+### O seu curso se encaixa em qual área do conhecimento?
+
+![img](./images/cursoConhecimento.png)
+
+### Como você avaliaria sua habilidade em usar aplicativos móveis e tecnologia em geral?
+
+![img](./images/habilidadeTecnologia.png)
+
+### Com qual frequência você usa o Moovit?
+
+![img](./images/frequenciaUso.png)
+
+### Você se locomove em razão de:
+
+![img](./images/razaoLocomocao.png)
+
+### Quais tipos de transporte público você costuma usar com mais frequência ao usar o Moovit? 
+
+![img](./images/tipoTransporte.png)
+
+### Que tipo de informações você considera mais importante ao usar o Moovit?
+
+![img](./images/informacoesImportantes.png)
+
+### Você já teve problemas com a precisão da cronometragem dos ônibus fornecidos pelo Moovit?
+
+![img](./images/problemaCronometragem.png)
+
+### Você já teve problemas com a precisão da grade horária dos ônibus fornecida pelo Moovit?
+
+![img](./images/problemaPrecisao.png)
+
+### Você sente que o Moovit atende às suas necessidades de planejamento de transporte público?
+
+![img](./images/atendeNecessidade.png)
+
+### Você já recomendou o Moovit a outras pessoas?
+
+![img](./images/recomendaMoovit.png)
+
+## Respostas sobre Interface
+
+### Você consegue saber quando o aplicativo está sem wifi/localização ou carregando alguma coisa facilmente?
+
+![img](./images/appSemWifi.png)
+
+### O aplicativo Moovit exibe informações claras sobre a disponibilidade e o tempo de espera dos meios de transporte público?
+
+![img](./images/informacoesTempoEsperaDisponibilidade.png)
+
+### Você já teve problemas para encontrar informações importantes no aplicativo Moovit, como horários de ônibus ou mapas de rotas?
+
+![img](./images/problemaEncontrarInformacoes.png)
+
+### As rotas e paradas mostradas no aplicativo Moovit correspondem aos locais e pontos de ônibus/trem da vida real?
+
+![img](./images/rotaParadasCorrespondemReal)
+
+### Você já teve dificuldade para cancelar ou modificar uma rota no Moovit?
+
+![img](./images/dificuldadeCancelarRota.png)
+
+### O aplicativo Moovit permite personalizar as configurações, como a opção de evitar rotas com muitas transferências?
+
+![img](./images/personalizarConfiguracoesRotas.png)
+
+### As telas e botões do Moovit seguem um padrão consistente de design e organização?
+
+![img](./images/designPadronizado.png)
+
+### Você consegue entender as informações ou opções somente a partir de seus símbolos e ícones?
+
+![img](./images/entenderIcones.png)
+
+### O Moovit fornece informações e alertas para evitar erros, como selecionar a rota errada ou a linha de ônibus errada?
+
+![img](./images/informarErros.png)
+
+### Você acha que aprender a utilizar Moovit para auxiliar na sua locomoção foi um processo difícil/demorado?
+
+![img](./images/aprenderUsarMoovit.png)
+
+### O Moovit fornece opções para personalizar as configurações e as rotas com base nas preferências do usuário?
+
+![img](./images/personalizarConfiguracoes.png)
+
+### Você consegue encontrar rotas que você utiliza com mais frequência com maior facilidade?
+
+![img](./images/rocasMaisFrequentes.png)
+
+### Como você classificaria o visual do Moovit?
+
+![img](./images/visualMoovit.png)
+
+### Quão rápido você consegue reconhecer, entender e resolver um problema no aplicativo?
+
+![img](./images/reconhecerProblemaApp.png)
+
+### Quão rápido você consegue encontrar uma ajuda ou documentação do aplicativo?
+
+![img](./images/reapidoEncontrarAjuda.png)
+
+### Você já perdeu o horário ou se atrasou por não entender as informações do aplicativo?
+
+![img](./images/perdeuHorario.png)
+
